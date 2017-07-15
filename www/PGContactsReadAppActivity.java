@@ -1,6 +1,6 @@
 package com.rodo.pgcontactsreadapp;
 import android.os.Bundle;
-import org.apache.cordova.DroidGap;
+import org.apache.phonegap.DroidGap;
 public class PGContactsReadAppActivity extends DroidGap {
     @Override
     public void onCreate(Bundle savedInstanceState) {
