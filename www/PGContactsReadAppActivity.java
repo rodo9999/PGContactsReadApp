@@ -1,4 +1,4 @@
-package com.phonegap.pgcontactsreadapp;
+package com.rodo.pgcontactsreadapp;
 import android.os.Bundle;
 import org.apache.cordova.DroidGap;
 public class PGContactsReadAppActivity extends DroidGap {
