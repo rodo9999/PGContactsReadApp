@@ -1,21 +1,17 @@
 <?xml version = "1.0" encoding = "UTF-8"?>
 <widget xmlns = "http://www.w3.org/ns/widgets"
-    xmlns:gap = "http://phonegap.com/ns/1.0"
-    id = "com.rodo.pgcontactsreadapp"
-    version = "1.0.0">
-<name>Navigation</name>
-<description>
-  Prueba de lectura de contactos.
-</description>
-<author>
-  Rodo
-</author>
+        xmlns:gap = "http://phonegap.com/ns/1.0"
+        id = "com.rodo.pgcontactsreadapp"
+        version = "1.0.0">
+    <name>Mostrar contactos</name>
+    <description> Prueba de lectura de contactos. </description>
+    <author> Rodo </author>
 
-<feature name = "http://api.phonegap.com/1.0/device"/>
-<preference name="phonegap-version" value="cli-5.1.1" /> <!-- all: current version of PhoneGap -->
-<preference name="android-minSdkVersion" value="9" />
-<preference name = "orientation" value = "default"/>
-<preference name = "target-device" value = "universal"/>
-<preference name = "fullscreen" value = "false"/>
-<icon
+    <feature name = "http://api.phonegap.com/1.0/device"/>
+    <preference name="phonegap-version" value="cli-5.1.1" /> <!-- all: current version of PhoneGap -->
+    <preference name="android-minSdkVersion" value="9" />
+    <preference name = "orientation" value = "default"/>
+    <preference name = "target-device" value = "universal"/>
+    <preference name = "fullscreen" value = "false"/>
+    <icon src = "icon.png"/>
 </widget>
